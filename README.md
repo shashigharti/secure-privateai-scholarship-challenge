@@ -2,5 +2,4 @@
 
 Udacity Challenge Course 
 
-Chapter 8 : Securing Federated Learning
-Topic : Additive Secret Sharing
+Secure & Private AI Scholarship Challenge from Facebook Artificial Intelligence
