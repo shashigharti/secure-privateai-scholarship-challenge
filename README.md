@@ -1,5 +1,4 @@
 # Secure & Private AI Scholarship Challenge from Facebook Artificial Intelligence
-# Secure & Private AI Scholarship Challenge from Facebook Artificial Intelligence
 DAY 5:
 - Read the paper "Differentially Private Federated Learning:
 A Client Level Perspective"  #reading_paper_discuss  papers discussion club
