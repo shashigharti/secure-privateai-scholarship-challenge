@@ -142,3 +142,21 @@ DAY 19:
  
 I would like to thank you all for your encouragement and motivation @Manisha @sourav kumar @Sourav @Sankalp Dayal @Helena Barmer @Erin Hu @erinSnPAI @Evi @Varez.W @Manisha @Erin Hu @Tracy Adams @Frida  @Erika Yoon @Mohit @Nora @Labiba  @Joyce Obi @Seeratpal K. Jaura @Manisha @SusanW  @Oudarjya Sen Sarma @Ayesha Manzur @Sayali_Kutwal @Evi @Carlo David @Droid @Eileen  @Maria
 #60daysofudacity
+
+DAY 20:
+-  Contd. Lectures of WQU ,  "Algorithms and Complexity Analysis" week II
+- Participated in group discussion of 'Pytorch Robotics' sg_pytorch_robotics
+- Started Phase II of SQL Summer Camp (Kaggle) - Video 
+I would like to thank you all for your encouragement and motivation 
+
+
+@Manisha @sourav kumar @Sourav @Sankalp Dayal @Helena Barmer @Erin Hu @erinSnPAI @Evi @Varez.W @Manisha @Erin Hu @Tracy Adams @Frida  @Erika Yoon @Mohit @Nora @Labiba  @Joyce Obi @Seeratpal K. Jaura @Manisha @SusanW  @Oudarjya Sen Sarma @Ayesha Manzur @Sayali_Kutwal @Evi @Carlo David @Droid @Eileen  @Maria#60daysofudacity
+
+DAY 21:
+- Contd. Lectures of WQU,  "Computational/Time Complexity" week II
+- Created github repo for 'Pytorch Robotics' sg_pytorch_robotics.
+- Resumed udacity lesson 9 'Build An Encrypted Database'. https://github.com/shashigharti/secure-privateai-scholarship-challenge/blob/master/course-exercise-n-projects/Encrypted_Deep_Learning.ipynb
+I would like to thank you all for your encouragement and motivation 
+
+
+@Manisha @sourav kumar @Sourav @Sankalp Dayal @Helena Barmer @Erin Hu @erinSnPAI @Evi @Varez.W @Manisha @Erin Hu @Tracy Adams @Frida  @Erika Yoon @Mohit @Nora @Labiba  @Joyce Obi @Seeratpal K. Jaura @Manisha @SusanW  @Oudarjya Sen Sarma @Ayesha Manzur @Sayali_Kutwal @Evi @Carlo David @Droid @Eileen  @Maria#60daysofudacity
