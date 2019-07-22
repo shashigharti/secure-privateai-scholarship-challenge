@@ -159,3 +159,11 @@ I would like to thank you all for your encouragement and motivation
 
 
 @Manisha @sourav kumar @Sourav @Sankalp Dayal @Helena Barmer @Erin Hu @erinSnPAI @Evi @Varez.W @Manisha @Erin Hu @Tracy Adams @Frida  @Erika Yoon @Mohit @Nora @Labiba  @Joyce Obi @Seeratpal K. Jaura @Manisha @SusanW  @Oudarjya Sen Sarma @Ayesha Manzur @Sayali_Kutwal @Evi @Carlo David @Droid @Eileen  @Maria#60daysofudacity
+
+DAY 22:
+- Studied YOLO Object detection 
+- Studied about (IOU, Nonmax suppression) in object detection and localization
+- Attended virtual meetup with sg_wonder_vision and sg_wrldwde-women-cdrs
+
+I would like to thank you all for your encouragement and motivation 
+@Manisha @sourav kumar @Sourav @Sankalp Dayal @Helena Barmer @Erin Hu @erinSnPAI @Evi @Varez.W @Manisha @Erin Hu @Tracy Adams @Frida  @Erika Yoon @Mohit @Nora @Labiba  @Joyce Obi @Seeratpal K. Jaura @Manisha @SusanW  @Oudarjya Sen Sarma @Ayesha Manzur @Sayali_Kutwal @Evi @Carlo David @Droid @Eileen  @Maria#60daysofudacity
