@@ -166,4 +166,14 @@ DAY 22:
 - Attended virtual meetup with sg_wonder_vision and sg_wrldwde-women-cdrs
 
 I would like to thank you all for your encouragement and motivation 
-@Manisha @sourav kumar @Sourav @Sankalp Dayal @Helena Barmer @Erin Hu @erinSnPAI @Evi @Varez.W @Manisha @Erin Hu @Tracy Adams @Frida  @Erika Yoon @Mohit @Nora @Labiba  @Joyce Obi @Seeratpal K. Jaura @Manisha @SusanW  @Oudarjya Sen Sarma @Ayesha Manzur @Sayali_Kutwal @Evi @Carlo David @Droid @Eileen  @Maria#60daysofudacity
+@Manisha @sourav kumar @Sourav @Sankalp Dayal @Helena Barmer @Erin Hu @erinSnPAI @Evi @Varez.W @Manisha @Erin Hu @Tracy Adams @Frida  @Erika Yoon @Mohit @Nora @Labiba  @Joyce Obi @Seeratpal K. Jaura @Manisha @SusanW  @Oudarjya Sen Sarma @Ayesha Manzur @Sayali_Kutwal @Evi @Carlo David @Droid @Eileen  @Maria
+#60daysofudacity
+
+
+DAY 23:
+- Contd. Lectures of WQU "Memory Complexity & Data Structures " and "Recursion & Memoization"
+- Contd. study of "YOLO algorithm" and paper "Focal Loss for Dense Object Detection"
+
+I would like to thank you all for your encouragement and motivation 
+@Manisha @sourav kumar @Sourav @Sankalp Dayal @Helena Barmer @Erin Hu @erinSnPAI @Evi @Varez.W  @Erin Hu @Tracy Adams @Frida  @Erika Yoon @Mohit @Nora @Labiba  @Joyce Obi @Seeratpal K. Jaura  @SusanW  @Oudarjya Sen Sarma @Ayesha Manzur @Sayali_Kutwal @Evi @Carlo David @Droid @Eileen  @Maria @Anju Mercian
+#60daysofudacity
