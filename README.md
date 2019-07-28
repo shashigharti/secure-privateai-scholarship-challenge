@@ -209,3 +209,11 @@ DAY 27:
 I would like to thank you all for your encouragement and motivation
 @Manisha @sourav kumar @Sourav @Sankalp Dayal @Helena Barmer @Erin Hu @erinSnPAI @Evi @Varez.W  @Erin Hu @Tracy Adams @Frida  @Erika Yoon @Mohit @Nora @Labiba  @Joyce Obi @Seeratpal K. Jaura  @SusanW  @Oudarjya Sen Sarma @Ayesha Manzur @Sayali_Kutwal @Evi @Carlo David @Droid @Eileen  @Maria @Anju Mercian
 #60daysofudacity
+
+DAY 28:
+- Completed Paper "Focal Loss for Dense Object Detection"
+- Contd WQU course "python, pythonisms, pythonic"
+
+I would like to thank you all for your encouragement and motivation
+@Manisha @sourav kumar @Sourav @Sankalp Dayal @Helena Barmer @Erin Hu @erinSnPAI @Evi @Varez.W  @Erin Hu @Tracy Adams @Frida  @Erika Yoon @Mohit @Nora @Labiba  @Joyce Obi @Seeratpal K. Jaura  @SusanW  @Oudarjya Sen Sarma @Ayesha Manzur @Sayali_Kutwal @Evi @Carlo David @Droid @Eileen  @Maria @Anju Mercian
+#60daysofudacity
