@@ -217,3 +217,11 @@ DAY 28:
 I would like to thank you all for your encouragement and motivation
 @Manisha @sourav kumar @Sourav @Sankalp Dayal @Helena Barmer @Erin Hu @erinSnPAI @Evi @Varez.W  @Erin Hu @Tracy Adams @Frida  @Erika Yoon @Mohit @Nora @Labiba  @Joyce Obi @Seeratpal K. Jaura  @SusanW  @Oudarjya Sen Sarma @Ayesha Manzur @Sayali_Kutwal @Evi @Carlo David @Droid @Eileen  @Maria @Anju Mercian
 #60daysofudacity
+
+DAY 28:
+- Contd. WQU Lectures - Completed all the lessons of week III
+- Attended Virtual meetup  #sg_wonder_vision @Helena Barmer @Mahak Bansal @Pooja Vinod @James Korge @nabhanpv @Vipul Aggarwal @Jess @Sreekanth Zipsy @Rupesh Purum @erinSnPAI @Temitope Oladokun @Dammy @Vamsi @Joyce Obi @Sourav @Droid @Shashank Jain @Deasy Indrawati @Anshu Trivedi @Abhishek Tandon @Seeratpal K. Jaura
+
+I would like to thank you all for your encouragement and motivation
+@Manisha @sourav kumar @Sourav @Sankalp Dayal @Helena Barmer @Erin Hu @erinSnPAI @Evi @Varez.W  @Erin Hu @Tracy Adams @Frida  @Erika Yoon @Mohit @Nora @Labiba  @Joyce Obi @Seeratpal K. Jaura  @SusanW  @Oudarjya Sen Sarma @Ayesha Manzur @Sayali_Kutwal @Evi @Carlo David @Droid @Eileen  @Maria @Anju Mercian
+#60daysofudacity
