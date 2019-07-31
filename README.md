@@ -232,3 +232,12 @@ DAY 30:
 I would like to thank you all for your encouragement and motivation
 @Manisha @sourav kumar @Sourav @Sankalp Dayal @Helena Barmer @Erin Hu @erinSnPAI @Evi @Varez.W  @Erin Hu @Tracy Adams @Frida  @Erika Yoon @Mohit @Nora @Labiba  @Joyce Obi @Seeratpal K. Jaura  @SusanW  @Oudarjya Sen Sarma @Ayesha Manzur @Sayali_Kutwal @Evi @Carlo David @Droid @Eileen  @Maria @Anju Mercian
 #60daysofudacity
+
+DAY 31:
+- Completed setup of raspberry pi (sg_pytorch-robotics).
+- Attended webinar "Introduction to Embedded Systems with" (sg_pytorch-robotics).
+- Contd. working on SIIM Kaggle competition. Studied and tested RLE encoding code to convert mask to rle and viceversa to use in the competition.  
+
+I would like to thank you all for your encouragement and motivation
+@Manisha @sourav kumar @Sourav @Sankalp Dayal @Helena Barmer @Erin Hu @erinSnPAI @Evi @Varez.W  @Erin Hu @Tracy Adams @Frida  @Erika Yoon @Mohit @Nora @Labiba  @Joyce Obi @Seeratpal K. Jaura  @SusanW  @Oudarjya Sen Sarma @Ayesha Manzur @Sayali_Kutwal @Evi @Carlo David @Droid @Eileen  @Maria @Anju Mercian
+#60daysofudacity
