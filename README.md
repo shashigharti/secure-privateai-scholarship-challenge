@@ -247,3 +247,8 @@ DAY 32:
 - Attended virtual meetup of group sg_wonder_vision.
 
 #60daysofudacity
+
+DAY 33:
+- Contd. Setup of PySyft on a Raspberry PI (sg_pytorch-robotics) - Part I (https://blog.openmined.org/federated-learning-of-a-rnn-on-raspberry-pis/). Had to restart the installation due to the error while compiling
+
+#60daysofudacity
