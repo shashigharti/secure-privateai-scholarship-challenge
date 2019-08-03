@@ -252,3 +252,9 @@ DAY 33:
 - Contd. Setup of PySyft on a Raspberry PI (sg_pytorch-robotics) - Part I (https://blog.openmined.org/federated-learning-of-a-rnn-on-raspberry-pis/). Had to restart the installation due to the error while compiling
 
 #60daysofudacity
+
+
+DAY 34:
+- Contd. Setup of PySyft on a Raspberry PI (sg_pytorch-robotics) - Part I (https://blog.openmined.org/federated-learning-of-a-rnn-on-raspberry-pis/). Had to restart the installation due to the error while compiling
+
+#60daysofudacity
