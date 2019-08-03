@@ -255,6 +255,6 @@ DAY 33:
 
 
 DAY 34:
-- Contd. Setup of PySyft on a Raspberry PI (sg_pytorch-robotics) - Part I (https://blog.openmined.org/federated-learning-of-a-rnn-on-raspberry-pis/). Had to restart the installation due python version mismatch. Compiling python version 1.1.0
+- Contd. Setup of PySyft on a Raspberry PI (sg_pytorch-robotics) - Part I (https://blog.openmined.org/federated-learning-of-a-rnn-on-raspberry-pis/). Had to restart the installation due pytorch version mismatch. Compiling pytorch version 1.1.0
 
 #60daysofudacity
