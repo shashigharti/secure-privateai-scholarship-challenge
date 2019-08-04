@@ -260,7 +260,7 @@ DAY 34:
 #60daysofudacity
 
 DAY 35:
-- Completed PartI - the installation of PyTorch and PySyft (https://blog.openmined.org/federated-learning-of-a-rnn-on-raspberry-pis/)
+- Completed PartI - Installation of PyTorch and PySyft in raspberry pi 3 B+ (https://blog.openmined.org/federated-learning-of-a-rnn-on-raspberry-pis/)
 - Completed Project of WQU Week II
 
 #60daysofudacity
