@@ -270,3 +270,9 @@ DAY 36:
 - Completed Project of WQU Week III
 
 #60daysofudacity
+
+DAY 37:
+- Contd. PartII - Train a Recurrent Neural Network on Raspberry PIs  (https://blog.openmined.org/federated-learning-of-a-rnn-on-raspberry-pis/)
+- Continued Python Course of WQU
+
+#60daysofudacity
