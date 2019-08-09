@@ -288,3 +288,9 @@ DAY 39:
 - Continued Python Course of WQU
 
 #60daysofudacity
+
+DAY 39:
+- Contd. Kaggle Project SIIM (https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation) 
+- Contd. Studying PySyft code.
+
+#60daysofudacity
