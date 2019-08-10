@@ -289,8 +289,13 @@ DAY 39:
 
 #60daysofudacity
 
-DAY 39:
+DAY 40:
 - Contd. Kaggle Project SIIM (https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation) 
+- Contd. Studying PySyft code.
+
+#60daysofudacity
+
+DAY 41:
 - Contd. Studying PySyft code.
 
 #60daysofudacity
