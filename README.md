@@ -299,3 +299,10 @@ DAY 41:
 - Contd. Studying PySyft code.
 
 #60daysofudacity
+
+
+DAY 42:
+- Contd. Studying PySyft code.
+- Contd. Kaggle Project SIIM (https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation)
+
+#60daysofudacity
