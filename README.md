@@ -312,3 +312,8 @@ DAY 43:
 - Contd. Kaggle Project SIIM (https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation)
 - Attended virtual meetup iwth robotics group #sg_pytorch-robotics
 #60daysofudacity
+
+DAY 45:
+- Contd. working on Raspberry Pi Project
+- Attended virtual meetup with robotics group #sg_pytorch-robotics
+#60daysofudacity
