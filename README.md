@@ -321,7 +321,7 @@ DAY 44:
 
 DAY 45:
 - Contd. working on Raspberry Pi Project
-- Reading matertials to track object using dronein real time
+- Reading matertials to track object using drone in real time
 #60daysofudacity
 
 
