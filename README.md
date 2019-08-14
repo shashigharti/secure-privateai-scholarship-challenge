@@ -313,7 +313,15 @@ DAY 43:
 - Attended virtual meetup iwth robotics group #sg_pytorch-robotics
 #60daysofudacity
 
-DAY 45:
+DAY 44:
 - Contd. working on Raspberry Pi Project
 - Attended virtual meetup with robotics group #sg_pytorch-robotics
 #60daysofudacity
+
+
+DAY 45:
+- Contd. working on Raspberry Pi Project
+- Reading matertials to track object using dronein real time
+#60daysofudacity
+
+
