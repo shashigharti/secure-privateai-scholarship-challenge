@@ -337,4 +337,5 @@ DAY 47:
 
 DAY 48:
 - Contd. working on Raspberry Pi Project
+- Completed Object Detection with Pytorch
 #60daysofudacity
