@@ -328,3 +328,13 @@ DAY 45:
 DAY 46:
 - Contd. working on Raspberry Pi Project
 #60daysofudacity
+
+
+DAY 47:
+- Contd. working on Raspberry Pi Project
+#60daysofudacity
+
+
+DAY 48:
+- Contd. working on Raspberry Pi Project
+#60daysofudacity
