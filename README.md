@@ -343,3 +343,8 @@ DAY 48:
 DAY 49:
 - Contd. working on Raspberry Pi Project 
 #60daysofudacity
+
+DAY 50:
+- Submitted project for  #sg_pytorch-robotics
+- Created videos for object detection using YOLO and color tracking code(Follow me drone project) 
+#60daysofudacity
