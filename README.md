@@ -348,3 +348,7 @@ DAY 50:
 - Submitted project for  #sg_pytorch-robotics
 - Created videos for object detection using YOLO and color tracking code(Follow me drone project) 
 #60daysofudacity
+
+DAY 51:
+- Continued WQU Course (Pandas, Statistics)
+#60daysofudacity
