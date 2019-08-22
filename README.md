@@ -352,3 +352,9 @@ DAY 50:
 DAY 51:
 - Continued WQU Course (Pandas, Statistics)
 #60daysofudacity
+
+DAY 52:
+- Continued WQU Course (Pandas, Statistics)
+- Started working on Assignement for WQU (Pandas, Statistics)
+#60daysofudacity
+
