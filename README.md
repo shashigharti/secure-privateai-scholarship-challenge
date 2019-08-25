@@ -358,3 +358,15 @@ DAY 52:
 - Started working on Assignment for WQU (Pandas, Statistics)
 #60daysofudacity
 
+DAY 53:
+- Contd working on Assignment for WQU (Pandas, Statistics)
+#60daysofudacity
+
+DAY 54:
+- Contd working on Assignment for WQU (Pandas, Statistics)
+#60daysofudacity
+
+DAY 55:
+- Contd working on SIIM Kaggle Challenge 
+#60daysofudacity
+
