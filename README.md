@@ -370,3 +370,8 @@ DAY 55:
 - Contd working on SIIM Kaggle Challenge 
 #60daysofudacity
 
+DAY 56:
+- Completed project(using pandas)   of WQU
+- Started watching lectures of week 6
+#60daysofudacity
+
