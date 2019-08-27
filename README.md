@@ -375,3 +375,7 @@ DAY 56:
 - Started watching lectures of week 6
 #60daysofudacity
 
+DAY 57:
+- Contd. working on SIIM kaggle Challenge
+#60daysofudacity
+
