@@ -379,3 +379,8 @@ DAY 57:
 - Contd. working on SIIM kaggle Challenge
 #60daysofudacity
 
+DAY 58:
+- Contd. working on SIIM kaggle Challenge
+#60daysofudacity
+
+
