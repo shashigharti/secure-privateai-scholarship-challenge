@@ -383,7 +383,7 @@ DAY 58:
 - Contd. working on SIIM kaggle Challenge
 #60daysofudacity
 
-DAY 58:
+DAY 59:
 - Contd. working on SIIM kaggle Challenge
 - Started WQU lectures(Data wrangling, python, pandas) of week 7
 #60daysofudacity
