@@ -388,4 +388,9 @@ DAY 59:
 - Started WQU lectures(Data wrangling, python, pandas) of week 7
 #60daysofudacity
 
+DAY 60:
+- Contd. working on SIIM kaggle Challenge
+- Contd WQU lectures(Data wrangling, python, pandas) of week 7
+#60daysofudacity
+
 
